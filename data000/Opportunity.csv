@@ -1,3 +1,0 @@
-Guid,Name,Description,StageName,Amount,Probability,CloseDate,Type,NextStep,LeadSource,ForecastCategoryName,Pricebook2Id,SBQQ__Contracted__c,SBQQ__CreateContractedPrices__c,SBQQ__OrderGroupID__c,SBQQ__Ordered__c,SBQQ__QuotePricebookId__c,SBQQ__Renewal__c
-1499b118-d9fa-45f7-aef0-a5a250436bde,Opportunity,#N/A,Qualification,550.0,10.0,2024-05-01,Existing Business,#N/A,#N/A,Pipeline,6f7ccebe-fef8-47bc-8260-c093126c3d06,false,false,#N/A,false,#N/A,false
-f9a67a92-ce58-4d47-b515-e39143ee1e69,OpportunityTEST,#N/A,Closed Won,0.0,100.0,2024-05-14,#N/A,#N/A,#N/A,Closed,568dbbdf-2ba5-4547-ade9-5d64b035d812,false,false,#N/A,false,#N/A,false
